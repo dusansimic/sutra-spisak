@@ -1,0 +1,4 @@
+RapidFuzz==3.11.0
+six==1.17.0
+thefuzz==0.22.1
+transliterate==1.10.2
