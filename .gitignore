@@ -1,9 +1,5 @@
 # created by virtualenv automatically
-*
-!.gitignore
-!check_list.py
-!search.py
-!pyvenv.cfg
-!.devcontainer
-!.github
-!requirements.txt
+/bin/
+/lib/
+/list.txt
+/spisak.txt
